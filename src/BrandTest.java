@@ -70,7 +70,7 @@ public class BrandTest {
     }
 
     @Test //cái này là test getter với setter
-    public void testAllSetters() {
+    public void testAllSettersGetters() {
         // Set values
         brand.setBrandId("B001");
         brand.setBrandName("Toyota");
